@@ -1,0 +1,11 @@
+{
+  "name": "arccore-graph-demo",
+  "version": "1.0.0",
+  "description": "Demo of how to use arccore graph",
+  "main": "index.js",
+  "author": "Phillip Kahrl",
+  "license": "MIT",
+  "dependencies": {
+    "@encapsule/arccore": "^0.1.10"
+  }
+}
